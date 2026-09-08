@@ -67,6 +67,7 @@ README.md
 StreamView_Analytics/
 │
 ├── data/
+│   └── movies_clean.csv
 │   └── netflix_movies_detailed_up_to_2025.csv
 │
 ├── notebooks/
@@ -76,12 +77,20 @@ StreamView_Analytics/
 │   └── dashboard_streamview.pdf
 │
 ├── images/
-│   ├── catalogo_popularidad.png
-│   └── oportunidades_financieras.png
+│   ├── 01_top10_generos.png
+│   └── 02_popularidad_por_genero.png
+│   └── 03_distribucion_vote_average.png
+│   └── 04_popularidad_vs_preparacion.png
+│   └── 05_top10_paises.png
+│   └── 06_budget_vs_revenue.png
+│   └── 07_top10_roi.png
 │
 ├── docs/
-│   ├── Informe_Ejecutivo.pdf
-│   └── Presentacion.pptx
+│   ├── Caso_Semestral_STREAMVIEW_ANALYTICS.pdf
+│   └── EP1_Instrucciones y Pauta EP1_Encargo_Estudiante.pdf
+│   └── EP2_Instrucciones y Pauta EP2_Presentacion_Estudiante.pdf
+│   └── infome visual.pdf
+│   └── Presentacion.pdf
 │
 ├── src/
 │
