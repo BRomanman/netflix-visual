@@ -41,7 +41,7 @@ Entre los principales hallazgos se encuentran:
 
 ## Dashboard
 
-El dashboard fue desarrollado en Looker Studio.
+El dashboard fue desarrollado en DataStudio.
 
 Incluye:
 
@@ -70,14 +70,12 @@ StreamView_Analytics/
 │   └── netflix_movies_detailed_up_to_2025.csv
 │
 ├── notebooks/
-│   └── 01_EDA_Data_Movies_CORREGIDO.ipynb
+│   └── 01_EDA_Data_Movies.ipynb
 │
 ├── dashboard/
-│   ├── Looker_Studio_Link.txt
 │   └── dashboard_streamview.pdf
 │
 ├── images/
-│   ├── dashboard_completo.png
 │   ├── catalogo_popularidad.png
 │   └── oportunidades_financieras.png
 │
